@@ -1,0 +1,17 @@
+{
+  "name": "create-typescript-app",
+  "version": "1.0.0",
+  "description": "Typescript App Boilerplate code.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack -w"
+  },
+  "dependencies": {
+    "source-map-loader": "^0.2.3",
+    "ts-loader": "^4.0.1",
+    "typescript": "^2.7.2",
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
+  }
+}
