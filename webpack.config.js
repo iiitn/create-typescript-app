@@ -1,5 +1,3 @@
-var extractTextPlugin = require("extract-text-webpack-plugin");
-
 module.exports = {
 	entry: {
 		index: './index.ts'
